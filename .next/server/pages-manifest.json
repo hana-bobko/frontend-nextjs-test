@@ -1,0 +1,17 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/cities/[length]": "pages/api/cities/[length].js",
+  "/api/users/create": "pages/api/users/create.js",
+  "/api/users": "pages/api/users.js",
+  "/context-api": "pages/context-api.html",
+  "/formulario": "pages/formulario.html",
+  "/": "pages/index.html",
+  "/lista": "pages/lista.html",
+  "/modal-de-confirmacao": "pages/modal-de-confirmacao.html",
+  "/modal": "pages/modal.html",
+  "/_error": "pages/_error.js",
+  "/ciclo-de-vida": "pages/ciclo-de-vida.js",
+  "/pagina-estatica": "pages/pagina-estatica.js",
+  "/404": "pages/404.html"
+}
