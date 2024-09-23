@@ -38,7 +38,7 @@ export async function getStaticProps() {
     try {
         const response = await fetch("http://localhost:8080/api/cities/10");
         const data = await response.json();
-
+        console.log("passei aqui");
         if (!response.ok) throw new Error("Erro ao obter os dados");
 
         return {
